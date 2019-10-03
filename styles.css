@@ -15,8 +15,11 @@ p {
     padding: 10px;
   }
   .me {
-    color: green 
+    color: green  
   }
   #last_5_years {
-    color: black
+    color: blue
+  }
+  img {
+    width: 100%
   }
